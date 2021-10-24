@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### He/Him
 ## Contact Me: vpatangi75@gmail.com
-### Learning Java ![image](https://user-images.githubusercontent.com/87159377/138576339-06388c70-123a-41b5-958c-6de6cdcb53ba.png)
+### Learning Java ![image](https://user-images.githubusercontent.com/87159377/138576355-95d015e1-8d5b-489a-881c-8b34a015ee5f.png)
+
 
 **AadiPatangi/AadiPatangi** 
