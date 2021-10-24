@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### He/Him
-
+## Contact Me: vpatangi75@gmail.com
+### Learning Java java 
 <!--
 **AadiPatangi/AadiPatangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
