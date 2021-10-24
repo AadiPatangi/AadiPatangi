@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### He/Him
 ## Contact Me: vpatangi75@gmail.com
-### Learning Java https://camo.githubusercontent.com/7bbbd1683a0b270eb80fc8ed26868607beb9e6ec6fe0e67d7bea16e5119e4dec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d7265643f7374796c653d706c6173746963266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465 
-<!--
+### Learning Java 
 **AadiPatangi/AadiPatangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
