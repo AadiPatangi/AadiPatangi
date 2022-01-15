@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything Swift and HTML, CSS, and JavaScript
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play basketball 🏀 and football 🏈
--  I love Apple 🎧📱💻
+-   I love Apple 🎧📱💻
 
 ### Connect with me:
 
