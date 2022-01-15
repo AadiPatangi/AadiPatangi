@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/2xA_monster?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/2xA_monster)
 
-## I'm a Student, Developer, and Teacher!!
+## I'm a Student and Developer!
 
 - 🌱 I’m currently learning everything Swift and HTML, CSS, and JavaScript
 - 🥅 2022 Goals: Contribute more to Open Source projects
