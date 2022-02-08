@@ -19,11 +19,8 @@
 
 
 <br />
-<br />
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadiPatangi&show_icons=true&theme=radical)]
 
-<br />
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AadiPatangi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPatangi&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
