@@ -22,6 +22,7 @@
 
 ![](https://github.com/AadiPatangi/github-stats/blob/master/generated/overview.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AadiPatangi&show_icons=true&layout=compact&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![github](https://img.shields.io/badge/GitHub-#007396?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 ### Languages and Tools:
