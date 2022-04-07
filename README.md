@@ -29,7 +29,7 @@
 
 <img align="left" alt="Python" width="30px" src="python.svg"/>
 <img align="left" alt="Java" width="30px" src="java.svg"/>
-<img align="left" alt="HTML" width="30px" src="HTML.svg"/>
+<img align="left" alt="HTML" width="30px" src="html.svg"/>
 <img align="left" alt="CSS" width="30px" src="css.svg"/>
 <img align="left" alt="Github" width="30px" src="github.svg"/>
 <img align="left" alt="Tensorflow" width="30px" src="tensorflow.svg"/>
