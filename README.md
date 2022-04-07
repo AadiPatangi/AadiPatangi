@@ -28,14 +28,14 @@
 ## Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="python.svg"/>
-<img align="left" alt="Java" width="30px" src="Java.svg"/>
+<img align="left" alt="Java" width="30px" src="java.svg"/>
 <img align="left" alt="HTML" width="30px" src="HTML.svg"/>
-<img align="left" alt="CSS" width="30px" src="CSS.svg"/>
+<img align="left" alt="CSS" width="30px" src="css.svg"/>
 <img align="left" alt="Github" width="30px" src="github.svg"/>
-<img align="left" alt="Tensorflow" width="30px" src="Tensorflow.svg"/>
-<img align="left" alt="Powershell" width="30px" src="Powershell.svg"/>
+<img align="left" alt="Tensorflow" width="30px" src="tensorflow.svg"/>
+<img align="left" alt="Powershell" width="30px" src="powershell.svg"/>
 <img align="left" alt="Git" width="30px" src="git.svg"/>
-<img align="left" alt="Visual Studio Code" width="30px" src="visual_studio_code.svg"/>
+<img align="left" alt="Visual Studio Code" width="30px" src="Visual_Studio_Code.svg"/>
 <img align="left" alt="Swift" width="30px" src="swift.svg"/>
 
 
